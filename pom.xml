@@ -30,7 +30,7 @@ under the License.
   </parent>
 
   <artifactId>maven-shade-plugin</artifactId>
-  <version>1.7.1-raf</version>
+  <version>1.7.1-raf-jdanbrown-0</version>
   <packaging>maven-plugin</packaging>
 
   <name>Maven Shade Plugin</name>
